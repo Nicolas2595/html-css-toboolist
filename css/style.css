@@ -7,7 +7,6 @@
     background-color: grey;
     width: 900px;
     height: 800px;
-   /* text-align: center;*/
     display: inline-block;
 }
 
@@ -37,4 +36,34 @@
     border-radius: 4px;
     border: 1px solid black;
     padding: 1px;
+}
+
+.box2 {
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 5px;
+    margin-left: 150px; 
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;   
+}
+
+h3 {
+    margin-left: 25px;
+    margin-top: 30px;
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.newsletter {
+    margin-top: 0px;
+    margin-left: 30px;
+    
+}
+
+#word {
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 3px;
+    color: white;
 }
