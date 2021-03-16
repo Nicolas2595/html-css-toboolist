@@ -1,0 +1,22 @@
+#logo-testo {
+    display: inline-block;
+    margin-left: 10px;        
+}
+
+.contenitore {
+    background-color: grey;
+    width: 900px;
+    height: 800px;
+    text-align: center;
+    display: inline-block;
+}
+
+.box1 {
+    background-color: white;
+    width: 600px;
+    height: 45px;
+    margin-left: 150px;
+    margin-top: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
